@@ -11,13 +11,15 @@ Univesidad de Granada
 
 **Titulo** : _______
 
-**Autor(es)** ______________
+**Autor(es)** 
+Miranda López Rus
+Ainhoa Martínez Pérez
 
 **Resumen** : _________
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Un niño divertido en un mundo de amargados
 
 **Hashtag**  ___
 
