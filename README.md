@@ -12,8 +12,8 @@ Univesidad de Granada
 **Titulo** : _______
 
 **Autor(es)** 
-Miranda López Rus
-Ainhoa Martínez Pérez
+* Miranda López Rus
+* Ainhoa Martínez Pérez
 
 **Resumen** : _________
 
