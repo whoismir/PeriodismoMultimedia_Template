@@ -20,6 +20,8 @@ Ainhoa Martínez Pérez
 **logotipo** :  
 
 ![logo](https://github.com/whoismir/whoismir.github.io/blob/master/logo2.png)
+![logo2](https://github.com/whoismir/whoismir.github.io/blob/master/logo.png)
+
 
 
 **Slogan** (frase motivadora/inspiradora): Un niño divertido en un mundo de amargados
