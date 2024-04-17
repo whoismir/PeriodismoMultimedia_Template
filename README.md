@@ -114,9 +114,9 @@ En general, nos ha gustado mucho la experiencia de poder revivir nuestra infanci
 * (...) 
 
 (...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
+* González, I. (2024). El anime de Shin Chan celebra su aniversario más especial: 32 años después, la familia Nohara ha. . . Vidaextra. https://www.vidaextra.com/series/anime-shin-chan-celebra-su-aniversario-especial-32-anos-despues-familia-nohara-ha-conseguido-al-fin-pagar-hipoteca-su-casa 
+
+* Laird, P. R. (2017). Musicals in the Mirror: Enchanted, Self-reflexivity and Disney’s Sudden Boldness. The Disney Musical on Stage and Screen: Critical Approaches from'Snow White'to'Frozen', 65.
 
 
 
