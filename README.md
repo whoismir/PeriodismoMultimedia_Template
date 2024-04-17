@@ -71,9 +71,10 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
+
+![logo2](https://github.com/whoismir/whoismir.github.io/blob/master/logo.png)
 
 * redes sociales (...) 
 
@@ -83,29 +84,18 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
-* Test con usuarios (...) 
-* ... 
-
-
+Tal y como hemos mencionado, este proyecto está específicamente dedicado a los fans de Shin Chan, de todas las edades. Por ello, hemos decidido investigar entre nuestros círculos a las personas que pudieran estar interesadas en nuestra historia para así poder mandarles el Renpy (nuestro medio principal) y cuestionar cómo ha sido su experiencia jugando al videojuego, cambios que les gustaría que realizáramos, etc. 
 
 
 
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+Hemos podido desarrollar nuestro proyecto de manera satisfactoria. Al haber utilizado las herramientas (Protopie, Renpy y Arcweave) previamente, ya teníamos algo de experiencia que consideramos que hemos logrado reflejar en los diferentes eslabones de nuestro proyecto. 
 
+En lo referente a recursos, hemos extraído las imágenes de los personajes y los fondos de la serie original en sus primeras temporadas (por temas de derechos de copyright) y algunas otras generadas por la IA de Copilot. 
 
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
+En general, nos ha gustado mucho la experiencia de poder revivir nuestra infancia de esta forma y homenajear a la serie que nos vio crecer :)
 
 (...)
 
