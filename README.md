@@ -24,7 +24,7 @@ Ainhoa Martínez Pérez
 
 **Slogan** (frase motivadora/inspiradora): Un niño divertido en un mundo de amargados
 
-**Hashtag**  ___
+**Hashtag** #SCMundoReal
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
