@@ -75,7 +75,7 @@ Nuestra investigación de campo no fue muy extensa, ya que utilizamos de inspira
   ![parque](https://github.com/whoismir/whoismir.github.io/blob/master/parque.jpg)
   ![jugueteria](https://github.com/whoismir/whoismir.github.io/blob/master/jugueteria.jpg)
   ![nerea](https://github.com/whoismir/whoismir.github.io/blob/master/nerea.png)
-  ![shinchan](https://github.com/whoismir/whoismir.github.io/blob/master/shinchanreal.)png
+  ![shinchan](https://github.com/whoismir/whoismir.github.io/blob/master/shinchanreal.png)
   
   
 
