@@ -57,18 +57,14 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * 
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** Por el 32º aniversario de la serie de animación japonesa, hemos decidido rendir un homenaje para todas aquellas personas que crecieron viéndola como nosotras. Por ello, decidimos acercar a la figura de Shinnosuke al público trasladándolo al mundo real, donde tendrá que adaptarse al humor de nuestro día a día. 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** .... Lo consideramos interesante porque es un giro que no se ha visto nunca en la serie y, en general, en ninguna del mismo estilo. Nos hemos inspirado en la película Encantada (Kevin Lima, 2007), con la que también crecimos. 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  Nuestro público objetivo serían, por tanto, todos los entusiastas de Shin Chan, desde los más adultos que han crecido con la serie como las nuevas generaciones que se están enganchando ahora al fenómeno. 
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Estilo de narración**  Hemos escogido girar la estrategia en torno al videojuego debido a nuestro interés por este tipo de lenguaje, que suscita mucha atención por parte de las nuevas generaciones.  
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
 
 
 ![gato](https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg)
