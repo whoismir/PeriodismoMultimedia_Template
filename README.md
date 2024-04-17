@@ -67,9 +67,6 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 
-![gato](https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg)
-
-
 ### Etapa 2: Prototipar / productos 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
