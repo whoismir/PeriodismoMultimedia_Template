@@ -50,13 +50,10 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Nuestro proyectó surgió en clase tras escoger el pos-it de Shin Chan 
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
-
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+**Investigación de campo**   
+Nuestra investigación de campo no fue muy extensa, ya que utilizamos de inspiración nuestro proyecto del año pasado, Dante Elegante, en el cual al trabajar nosotras mismas, teníamos muchas cosas frescas
 
 
 **Necesidad/oportunidad** Por el 32º aniversario de la serie de animación japonesa, hemos decidido rendir un homenaje para todas aquellas personas que crecieron viéndola como nosotras. Por ello, decidimos acercar a la figura de Shinnosuke al público trasladándolo al mundo real, donde tendrá que adaptarse al humor de nuestro día a día. 
@@ -74,6 +71,10 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * Imagen visual
   Nuestra imagen visual tiene elementos de la ficción (los personajes de la serie de shin chan) y elementos de la realidad (relacionado con Japón, ciudad en la que se basa la serie)
+  ![salon](https://github.com/whoismir/whoismir.github.io/blob/master/salon.png)
+  ![parque](https://github.com/whoismir/whoismir.github.io/blob/master/parque.jpg)
+  ![logo2](https://github.com/whoismir/whoismir.github.io/blob/master/jugueteria.jpg)
+
 
 
 * publicidad: banner  
