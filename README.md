@@ -73,9 +73,9 @@ Nuestra investigación de campo no fue muy extensa, ya que utilizamos de inspira
   Nuestra imagen visual tiene elementos de la ficción (los personajes de la serie de shin chan) y elementos de la realidad (relacionado con Japón, ciudad en la que se basa la serie), además de crear imagenes por ia (excepto la de Shin Chan, que es un chico real)
   ![salon](https://github.com/whoismir/whoismir.github.io/blob/master/salon.png)
   ![parque](https://github.com/whoismir/whoismir.github.io/blob/master/parque.jpg)
-  ![logo2](https://github.com/whoismir/whoismir.github.io/blob/master/jugueteria.jpg)
-  ![logo2](https://github.com/whoismir/whoismir.github.io/blob/master/nerea.png)
-  ![logo2](https://github.com/whoismir/whoismir.github.io/blob/master/shinchan.jpg)
+  ![jugueteria](https://github.com/whoismir/whoismir.github.io/blob/master/jugueteria.jpg)
+  ![nerea](https://github.com/whoismir/whoismir.github.io/blob/master/nerea.png)
+  ![shinchan](https://github.com/whoismir/whoismir.github.io/blob/master/shinchanreal.)png
   
   
 
