@@ -13,7 +13,7 @@ Univesidad de Granada
 
 **Autor(es)** 
 Miranda López Rus
-Ainhoa Martínez Pérez (https://github.com/ainhoamaperez/ainhoamaperez.github.io)
+Ainhoa Martínez Pérez 
 
 **Resumen** : En una tarde de juegos en el jardín, Shin Chan es absorbido por su caja de juguetes y aparece en el mundo real. En este nuevo mundo, Shin Chan encontrará nuevos aliados que le ayudarán volver a casa... ¿O preferirá quedarse en el mundo real?
 
