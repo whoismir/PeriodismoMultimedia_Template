@@ -72,14 +72,13 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 ### Etapa 2: Prototipar / productos 
 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
+* Imagen visual
+  Nuestra imagen visual tiene elementos de la ficción (los personajes de la serie de shin chan) y elementos de la realidad (relacionado con Japón, ciudad en la que se basa la serie)
 
-![logo2](https://github.com/whoismir/whoismir.github.io/blob/master/logo.png)
 
-* redes sociales (...) 
-
-* publicidad: banner (... ) 
-
+* publicidad: banner  
+  Nuestra publicidad se basará en las imágenes de los logos además de la siguiente
+  ![publi](https://github.com/whoismir/whoismir.github.io/blob/master/game_menu.png)
 * ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
